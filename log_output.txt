@@ -1,0 +1,6 @@
+[danhandev] 2025-05-20 02:57:26 +0900 feat: Analysis class diagram 추가 6bcfca5
+[danhandev] 2025-05-20 02:56:31 +0900 feat: analysis class diagram 추가 b1165b3
+[danhandev] 2025-05-20 02:55:32 +0900 update: use case decription 로그인 수정 7eb2309
+[danhandev] 2025-05-18 22:05:50 +0900 feat: use case diagram 추가 026d9b5
+[danhandev] 2025-05-18 21:54:00 +0900 feat: use case diagram 생성 5492ff2
+[danhandev] 2025-05-18 21:51:49 +0900 feat: requirement list 위치 수정 79a9647
